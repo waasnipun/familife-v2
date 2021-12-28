@@ -1,17 +1,9 @@
-# familife
+# Familife
 
-A new Flutter project.
+Familife is a social media platform for families where family members can create a family group, find and host events and tasks, chat with family members and create foodplans and Todos.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# familife-v2
+<div align="center">
+  <a href="">
+    <img src="assets/banner.png" alt="Logo">
+  </a>
+</div>
