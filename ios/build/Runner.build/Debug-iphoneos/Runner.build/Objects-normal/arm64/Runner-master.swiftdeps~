@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "d1532dfe77137d3baf787c99f645d344"
+build_time: [1632973089, 743483000]
+inputs:
+  "/Users/nipunwaas/Desktop/Projects/familife/familife-app/ios/Runner/AppDelegate.swift": [1611603814, 0]
